@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinoadafruitnrf52",
+    "description": "Git head arduinoadafruitnrf52, to solve https://github.com/platformio/platformio-core/issues/3693",
+    "version": "0.0.0",
+    "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino"
+}
